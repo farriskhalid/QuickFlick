@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f38fa622-cab8-4171-81e8-10ae4e0b5afe" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>histor</find>
+      <find>res</find>
+      <find>history</find>
+      <find>label-success</find>
+      <find>all</find>
+      <find>all_mov</find>
+      <find>echo</find>
+      <find>Records</find>
+      <find>get</find>
+      <find>loadpage</find>
+      <find>gly</find>
+      <find>getUser</find>
+      <find>hidden</find>
+      <find>delete</find>
+      <find>update</find>
+      <find>updateuser</find>
+      <find>user_modal</find>
+      <find>$user</find>
+      <find>ajax/</find>
+      <find>user</find>
+      <find>addrec</find>
+      <find>readrecords</find>
+      <find>fname</find>
+      <find>$rating</find>
+      <find>read</find>
+      <find>search</find>
+      <find>result</find>
+      <find>edit</find>
+      <find>Add n</find>
+      <find>logout</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$employee</replace>
+      <replace>rating</replace>
+      <replace>genre</replace>
+      <replace>$title</replace>
+      <replace>releasedate</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/employee.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/employed.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
+        <option value="$PROJECT_DIR$/settings.php" />
+        <option value="$PROJECT_DIR$/ajax requests/read.php" />
+        <option value="$PROJECT_DIR$/database.php" />
+        <option value="$PROJECT_DIR$/ajax requests/update.php" />
+        <option value="$PROJECT_DIR$/ajax requests/delete.php" />
+        <option value="$PROJECT_DIR$/ajax requests/details.php" />
+        <option value="$PROJECT_DIR$/ajax requests/create.php" />
+        <option value="$PROJECT_DIR$/welcome.php" />
+        <option value="$PROJECT_DIR$/member.php" />
+        <option value="$PROJECT_DIR$/ajax/delete.php" />
+        <option value="$PROJECT_DIR$/ajax/details.php" />
+        <option value="$PROJECT_DIR$/ajax/update.php" />
+        <option value="$PROJECT_DIR$/ajax/deleteMovie.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/ceo.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo/details.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo/read.php" />
+        <option value="$PROJECT_DIR$/ajax/movie/readMovies.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo/ceo.php" />
+        <option value="$PROJECT_DIR$/ajax/movie/actions/deleteFavorites.php" />
+        <option value="$PROJECT_DIR$/ajax/member/member.php" />
+        <option value="$PROJECT_DIR$/ajax/member/actions/addToWatch.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/ajax/movie/actions/createMovie.php" />
+        <option value="$PROJECT_DIR$/ajax/movie/actions/addToWatchList.php" />
+        <option value="$PROJECT_DIR$/ajax/employee.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo.php" />
+        <option value="$PROJECT_DIR$/ajax/search.php" />
+        <option value="$PROJECT_DIR$/ajax/movie/actions/deleteMovie.php" />
+        <option value="$PROJECT_DIR$/ajax/movie/actions/updateMovie.php" />
+        <option value="$PROJECT_DIR$/ajax/movie/actions/deleteFavorite.php" />
+        <option value="$PROJECT_DIR$/ajax/movie/actions/detailsMovie.php" />
+        <option value="$PROJECT_DIR$/ajax/member.php" />
+        <option value="$PROJECT_DIR$/ajax/read.php" />
+        <option value="$PROJECT_DIR$/ajax/readMovies.php" />
+        <option value="$PROJECT_DIR$/ajax/watchlist.php" />
+        <option value="$PROJECT_DIR$/ajax/member/actions/update.php" />
+        <option value="$PROJECT_DIR$/ajax/member/actions/details.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo/actions/update.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo/actions/details.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo/actions/delete.php" />
+        <option value="$PROJECT_DIR$/ajax/ceo/actions/create.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/ajax/database.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP 5.3" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ajax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/version2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/website/js/main.js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\website\ajax" />
+      <recent name="C:\xampp\htdocs\website\ajax\member" />
+      <recent name="C:\xampp\htdocs\website\ajax\movie\actions" />
+      <recent name="C:\xampp\htdocs\website\ajax\movie" />
+      <recent name="C:\xampp\htdocs\website\ajax\ceo\actions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\website" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f38fa622-cab8-4171-81e8-10ae4e0b5afe" name="Default" comment="" />
+      <created>1492616682252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492616682252</updated>
+      <workItem from="1492616683455" duration="53947000" />
+      <workItem from="1493146560666" duration="113370000" />
+      <workItem from="1493675480414" duration="3564000" />
+      <workItem from="1494538182290" duration="902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="171783000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15874036" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="456" column="13" lean-forward="false" selection-start-line="456" selection-start-column="13" selection-end-line="456" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/ceo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3180">
+          <caret line="212" column="0" lean-forward="true" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/detailsMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/deleteMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <marker date="1493677619808" expanded="true" signature="361:548" ph="..." />
+            <marker date="1493677619808" expanded="true" signature="405:548" ph="..." />
+            <marker date="1493677619808" expanded="true" signature="1327:1549" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="152" column="58" lean-forward="true" selection-start-line="152" selection-start-column="58" selection-end-line="152" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/readMovies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <marker date="1493677545782" expanded="true" signature="206:415" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="231:394" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="470:977" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="550:971" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="579:921" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="1037:1643" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="1313:1460" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="1481:1625" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/createMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="403" column="0" lean-forward="true" selection-start-line="403" selection-start-column="0" selection-end-line="403" selection-end-column="0" />
+          <folding>
+            <element signature="n#checkCredentials#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#login#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#register#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#favorites#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#history#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#recommendations#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#deleteFavorite#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#addToWatch#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#getToWatchList#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#updateMemberSettings#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#UpdateEmployee#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#memberDetails#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Create#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Read#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Update#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Details#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#createMovie#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieRead#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieDelete#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieUpdate#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <marker date="1494538393361" expanded="true" signature="1216:1267" ph="SELECT FNAME... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="1377:1421" ph="SELECT FNAME... Members" />
+            <marker date="1494538393361" expanded="true" signature="2410:2488" ph="SELECT FNAME... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="3092:3170" ph="SELECT EMPLO... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="3911:3980" ph="SELECT MEMBE... Members" />
+            <marker date="1494538393361" expanded="true" signature="4980:5223" ph="INSERT INTO members... " />
+            <marker date="1494538393361" expanded="true" signature="6009:6085" ph="select TITLE... movies" />
+            <marker date="1494538393361" expanded="true" signature="6532:6605" ph="select TITLE... Movies" />
+            <marker date="1494538393361" expanded="true" signature="7044:7237" ph="select * fro... movies" />
+            <marker date="1494538393361" expanded="true" signature="7807:8049" ph="select * fro... movies" />
+            <marker date="1494538393361" expanded="true" signature="8513:8589" ph="delete from " />
+            <marker date="1494538393361" expanded="true" signature="8895:8965" ph="INSERT into towatch... " />
+            <marker date="1494538393361" expanded="true" signature="9275:9323" ph="SELECT * FRO... towatch" />
+            <marker date="1494538393361" expanded="true" signature="9518:9563" ph="SELECT * FRO... movies" />
+            <marker date="1494538393361" expanded="true" signature="10088:10344" ph="UPDATE membe... " />
+            <marker date="1494538393361" expanded="true" signature="11028:11287" ph="UPDATE emplo... " />
+            <marker date="1494538393361" expanded="true" signature="11760:11803" ph="SELECT * FRO... members" />
+            <marker date="1494538393361" expanded="true" signature="12841:13044" ph="INSERT INTO employeesgroup... " />
+            <marker date="1494538393361" expanded="true" signature="13528:13556" ph="SELECT * FRO... employeesgroup" />
+            <marker date="1494538393361" expanded="true" signature="13880:13930" ph="DELETE FROM " />
+            <marker date="1494538393361" expanded="true" signature="14236:14611" ph="UPDATE emplo... " />
+            <marker date="1494538393361" expanded="true" signature="15235:15287" ph="SELECT * FRO... employeesgroup" />
+            <marker date="1494538393361" expanded="true" signature="16302:16454" ph="INSERT INTO movies... " />
+            <marker date="1494538393361" expanded="true" signature="16836:16856" ph="SELECT * FRO... movies" />
+            <marker date="1494538393361" expanded="true" signature="17439:17478" ph="DELETE FROM " />
+            <marker date="1494538393361" expanded="true" signature="18093:18295" ph="UPDATE movie... " />
+            <marker date="1494538393361" expanded="true" signature="18957:18998" ph="SELECT * FRO... movies" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="75" />
+          <folding>
+            <marker date="1493678685879" expanded="true" signature="385:514" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="450:457" ph="×" />
+            <marker date="1493678685879" expanded="true" signature="645:800" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="710:717" ph="×" />
+            <marker date="1493678685879" expanded="true" signature="1288:1425" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="1353:1360" ph="×" />
+            <marker date="1493678685879" expanded="true" signature="2157:2240" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="2159:2240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/ceo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="83" column="31" lean-forward="true" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+          <folding>
+            <element signature="n#checkCredentials#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#login#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#register#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#favorites#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#history#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#recommendations#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#deleteFavorite#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#addToWatch#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#getToWatchList#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#updateMemberSettings#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#UpdateEmployee#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#memberDetails#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Create#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Read#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Update#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Details#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#createMovie#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieRead#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieDelete#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieUpdate#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <marker date="1494538393361" expanded="true" signature="1216:1267" ph="SELECT FNAME... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="1377:1421" ph="SELECT FNAME... Members" />
+            <marker date="1494538393361" expanded="true" signature="2410:2488" ph="SELECT FNAME... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="3092:3170" ph="SELECT EMPLO... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="3911:3980" ph="SELECT MEMBE... Members" />
+            <marker date="1494538393361" expanded="true" signature="4980:5223" ph="INSERT INTO members... " />
+            <marker date="1494538393361" expanded="true" signature="6009:6085" ph="select TITLE... movies" />
+            <marker date="1494538393361" expanded="true" signature="6532:6605" ph="select TITLE... Movies" />
+            <marker date="1494538393361" expanded="true" signature="7044:7237" ph="select * fro... movies" />
+            <marker date="1494538393361" expanded="true" signature="7807:8049" ph="select * fro... movies" />
+            <marker date="1494538393361" expanded="true" signature="8513:8589" ph="delete from " />
+            <marker date="1494538393361" expanded="true" signature="8895:8965" ph="INSERT into towatch... " />
+            <marker date="1494538393361" expanded="true" signature="9275:9323" ph="SELECT * FRO... towatch" />
+            <marker date="1494538393361" expanded="true" signature="9518:9563" ph="SELECT * FRO... movies" />
+            <marker date="1494538393361" expanded="true" signature="10088:10344" ph="UPDATE membe... " />
+            <marker date="1494538393361" expanded="true" signature="11028:11287" ph="UPDATE emplo... " />
+            <marker date="1494538393361" expanded="true" signature="11760:11803" ph="SELECT * FRO... members" />
+            <marker date="1494538393361" expanded="true" signature="12841:13044" ph="INSERT INTO employeesgroup... " />
+            <marker date="1494538393361" expanded="true" signature="13528:13556" ph="SELECT * FRO... employeesgroup" />
+            <marker date="1494538393361" expanded="true" signature="13880:13930" ph="DELETE FROM " />
+            <marker date="1494538393361" expanded="true" signature="14236:14611" ph="UPDATE emplo... " />
+            <marker date="1494538393361" expanded="true" signature="15235:15287" ph="SELECT * FRO... employeesgroup" />
+            <marker date="1494538393361" expanded="true" signature="16302:16454" ph="INSERT INTO movies... " />
+            <marker date="1494538393361" expanded="true" signature="16836:16856" ph="SELECT * FRO... movies" />
+            <marker date="1494538393361" expanded="true" signature="17439:17478" ph="DELETE FROM " />
+            <marker date="1494538393361" expanded="true" signature="18093:18295" ph="UPDATE movie... " />
+            <marker date="1494538393361" expanded="true" signature="18957:18998" ph="SELECT * FRO... movies" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome.php" />
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <marker date="1493677619808" expanded="true" signature="361:548" ph="..." />
+            <marker date="1493677619808" expanded="true" signature="405:548" ph="..." />
+            <marker date="1493677619808" expanded="true" signature="1327:1549" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3555">
+          <caret line="237" column="40" lean-forward="true" selection-start-line="237" selection-start-column="40" selection-end-line="237" selection-end-column="40" />
+          <folding>
+            <marker date="1493677813238" expanded="true" signature="4398:4585" ph="..." />
+            <marker date="1493677813238" expanded="true" signature="4442:4585" ph="..." />
+            <marker date="1493677813238" expanded="true" signature="5569:5791" ph="..." />
+            <marker date="1493677813238" expanded="true" signature="5569:5936" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="4883" column="14" lean-forward="false" selection-start-line="4883" selection-start-column="1" selection-end-line="4883" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="317" column="30" lean-forward="true" selection-start-line="317" selection-start-column="30" selection-end-line="317" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employed.php" />
+    <entry file="file://$PROJECT_DIR$/settings.php" />
+    <entry file="file://$PROJECT_DIR$/welcome.php" />
+    <entry file="file://$PROJECT_DIR$/delete.php" />
+    <entry file="file://$PROJECT_DIR$/ajax/member/actions/addToWatch.php" />
+    <entry file="file://$PROJECT_DIR$/logout.php" />
+    <entry file="file://$PROJECT_DIR$/ajax/ceo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <marker date="1493677813238" expanded="true" signature="4398:4585" ph="..." />
+            <marker date="1493677813238" expanded="true" signature="4442:4585" ph="..." />
+            <marker date="1493677813238" expanded="true" signature="5569:5791" ph="..." />
+            <marker date="1493677813238" expanded="true" signature="5569:5936" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/read.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding>
+            <marker date="1493677913569" expanded="true" signature="235:443" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="260:422" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="501:1054" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="537:1054" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="570:1017" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1121:1252" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1121:2042" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1536:1772" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1652:1750" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1793:1830" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1860:2024" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1860:2042" ph="..." />
+            <marker date="1493677913569" expanded="true" signature="1904:2002" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/readMovies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding>
+            <marker date="1493677545782" expanded="true" signature="206:415" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="231:394" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="470:977" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="550:971" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="579:921" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="1037:1643" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="1313:1460" ph="..." />
+            <marker date="1493677545782" expanded="true" signature="1481:1625" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/watchlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1493677997106" expanded="true" signature="360:547" ph="..." />
+            <marker date="1493677997106" expanded="true" signature="404:547" ph="..." />
+            <marker date="1493677997106" expanded="true" signature="1158:1322" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1493677619808" expanded="true" signature="361:548" ph="..." />
+            <marker date="1493677619808" expanded="true" signature="405:548" ph="..." />
+            <marker date="1493677619808" expanded="true" signature="1327:1549" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/updateMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/addToWatchList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="69" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/createMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/deleteFavorite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="75" lean-forward="false" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/deleteMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/movie/actions/detailsMovie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/ceo/actions/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/ceo/actions/details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/ceo/actions/delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/ceo/actions/create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="40" lean-forward="true" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding>
+            <marker date="1493678685879" expanded="true" signature="385:514" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="450:457" ph="×" />
+            <marker date="1493678685879" expanded="true" signature="645:800" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="710:717" ph="×" />
+            <marker date="1493678685879" expanded="true" signature="1288:1425" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="1353:1360" ph="×" />
+            <marker date="1493678685879" expanded="true" signature="2157:2240" ph="..." />
+            <marker date="1493678685879" expanded="true" signature="2159:2240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/member/actions/details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/member/actions/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/narayan3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12075">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="n#checkCredentials#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#login#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#register#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#favorites#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#history#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#recommendations#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#deleteFavorite#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#addToWatch#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#getToWatchList#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#updateMemberSettings#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#UpdateEmployee#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#memberDetails#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Create#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Read#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Update#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#Details#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#createMovie#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieRead#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieDelete#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <element signature="n#movieUpdate#0;n#DatabaseActions#0;n#!!top" expanded="false" />
+            <marker date="1494538393361" expanded="true" signature="1216:1267" ph="SELECT FNAME... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="1377:1421" ph="SELECT FNAME... Members" />
+            <marker date="1494538393361" expanded="true" signature="2410:2488" ph="SELECT FNAME... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="3092:3170" ph="SELECT EMPLO... EmployeesGroup" />
+            <marker date="1494538393361" expanded="true" signature="3911:3980" ph="SELECT MEMBE... Members" />
+            <marker date="1494538393361" expanded="true" signature="4980:5223" ph="INSERT INTO members... " />
+            <marker date="1494538393361" expanded="true" signature="6009:6085" ph="select TITLE... movies" />
+            <marker date="1494538393361" expanded="true" signature="6532:6605" ph="select TITLE... Movies" />
+            <marker date="1494538393361" expanded="true" signature="7044:7237" ph="select * fro... movies" />
+            <marker date="1494538393361" expanded="true" signature="7807:8049" ph="select * fro... movies" />
+            <marker date="1494538393361" expanded="true" signature="8513:8589" ph="delete from " />
+            <marker date="1494538393361" expanded="true" signature="8895:8965" ph="INSERT into towatch... " />
+            <marker date="1494538393361" expanded="true" signature="9275:9323" ph="SELECT * FRO... towatch" />
+            <marker date="1494538393361" expanded="true" signature="9518:9563" ph="SELECT * FRO... movies" />
+            <marker date="1494538393361" expanded="true" signature="10088:10344" ph="UPDATE membe... " />
+            <marker date="1494538393361" expanded="true" signature="11028:11287" ph="UPDATE emplo... " />
+            <marker date="1494538393361" expanded="true" signature="11760:11803" ph="SELECT * FRO... members" />
+            <marker date="1494538393361" expanded="true" signature="12841:13044" ph="INSERT INTO employeesgroup... " />
+            <marker date="1494538393361" expanded="true" signature="13528:13556" ph="SELECT * FRO... employeesgroup" />
+            <marker date="1494538393361" expanded="true" signature="13880:13930" ph="DELETE FROM " />
+            <marker date="1494538393361" expanded="true" signature="14236:14611" ph="UPDATE emplo... " />
+            <marker date="1494538393361" expanded="true" signature="15235:15287" ph="SELECT * FRO... employeesgroup" />
+            <marker date="1494538393361" expanded="true" signature="16302:16454" ph="INSERT INTO movies... " />
+            <marker date="1494538393361" expanded="true" signature="16836:16856" ph="SELECT * FRO... movies" />
+            <marker date="1494538393361" expanded="true" signature="17439:17478" ph="DELETE FROM " />
+            <marker date="1494538393361" expanded="true" signature="18093:18295" ph="UPDATE movie... " />
+            <marker date="1494538393361" expanded="true" signature="18957:18998" ph="SELECT * FRO... movies" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
