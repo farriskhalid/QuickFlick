@@ -19,7 +19,7 @@ Needed Improvements:
 - movies will not display/have holes in certain areas of the grid if title is too long
 
 Collaborative Contributor: 
-Trey Wilson III (back-end)
+Trey Wilson III (back-end) @treywilson3
 
 
 
